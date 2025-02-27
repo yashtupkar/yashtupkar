@@ -9,7 +9,11 @@
 - 🎯 Experienced in **C, C++, JavaScript, MERN Stack (MongoDB, Express.js, React, Node.js)**.
 - 🏥 Currently working on **Smart Hospital Management System**.
 - 📚 Always learning and exploring new technologies.
+- *Contribution Activity:*  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashtupkar&bg_color=1F1D2E&color=F8D866&line=7F5AF0&point=FFFFFF&area=true&hide_border=true)
+  ## 📈 GitHub Stats  
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashtupkar&theme=radical)          ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashtupkar&theme=radical)
 ---
 
 ### 💡 Skills & Technologies:
